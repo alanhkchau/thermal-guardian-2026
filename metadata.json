@@ -1,0 +1,5 @@
+{
+  "name": "Thermal Guardian v2.5",
+  "description": "Professional dark-mode fleet observability web app for EV thermal stress monitoring and sensor drift detection.",
+  "requestFramePermissions": ["geolocation"]
+}
